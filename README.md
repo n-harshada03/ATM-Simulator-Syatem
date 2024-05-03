@@ -1,0 +1,1 @@
+Developed a user-friendly bank ATM simulator system focusing on security and efficiency.Utilized Apache Server Pages and MySQL database for seamless functionality. Features include secure login, money receipt, fund transfers, and inter-bank transactions.
